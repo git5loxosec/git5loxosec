@@ -46,4 +46,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=git5loxosec&show_icons=true&locale=en&layout=compact" alt="git5loxosec" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git5loxosec&show_icons=true&locale=en" alt="git5loxosec" /></p>
+
