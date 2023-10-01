@@ -1,4 +1,5 @@
 <center>
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=git5loxosec&theme=nightfox&hide_border=true&mode=weekly&background=45%2CEB545400%2C00000000)](https://git.io/streak-stats)
 
 ![LoxoSec Badge](https://img.shields.io/badge/_👻_-ｇｉｔ５-pink) ![LoxoSec Badge](https://img.shields.io/badge/🐘-ＬｏｘｏＳｅｃ-cyan) ![LoxoSec Badge](https://img.shields.io/badge/❤️‍🔥-Ｋａｌｉ-red) ![LoxoSec Badge](https://img.shields.io/badge/🐧-Ｌｉｎｕｘ-black) ![LoxoSec Badge](https://img.shields.io/badge/🐍-Ｐｙｔｈｏｎ-green) ![LoxoSec Badge](https://img.shields.io/badge/🤖-Ｂａｓｈ-gold) 
@@ -10,6 +11,7 @@
 - 💞️ I’m looking to collɑborɑte on ɑnything relɑted to my likes...
 - 📫 How to reɑch me loxosec2023@gmɑil.com...
 </center>
+
 ```
 ░░░░░░░░░░░░░░░░░░░░░▄▀░░▌
 ░░░░░░░░░░░░░░░░░░░▄▀▐░░░▌
