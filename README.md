@@ -1,4 +1,4 @@
-![git5loxosec's Stats](https://github-readme-stats.vercel.app/api?username=git5loxosec&theme=react&show_icons=true&hide_border=true&count_private=false&max_width=40%) ![git5loxosec's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=git5loxosec&theme=react&show_icons=true&hide_border=true&layout=compact) 
+![git5loxosec's Stats](https://github-readme-stats.vercel.app/api?username=git5loxosec&theme=react&show_icons=true&hide_border=true&count_private=false&max_width=40%) ![git5loxosec's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=git5loxosec&theme=react&show_icons=true&hide_border=true&layout=compact&max_width=50%) 
 
 ![LoxoSec Badge](https://img.shields.io/badge/_👻_-ｇｉｔ５-pink) ![LoxoSec Badge](https://img.shields.io/badge/🐘-ＬｏｘｏＳｅｃ-cyan) ![LoxoSec Badge](https://img.shields.io/badge/❤️‍🔥-Ｋａｌｉ-red) ![LoxoSec Badge](https://img.shields.io/badge/🐧-Ｌｉｎｕｘ-black) ![LoxoSec Badge](https://img.shields.io/badge/🐍-Ｐｙｔｈｏｎ-green) ![LoxoSec Badge](https://img.shields.io/badge/🤖-Ｂａｓｈ-gold) 
 
