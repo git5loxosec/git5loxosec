@@ -1,4 +1,4 @@
-![git5loxosec's Stats](https://github-readme-stats.vercel.app/api?username=git5loxosec&theme=react&show_icons=true&hide_border=true&count_private=false&width=46%)
+![git5loxosec's Stats](https://github-readme-stats.vercel.app/api?username=git5loxosec&theme=react&show_icons=true&hide_border=true&count_private=false&width='40%')
 ![git5loxosec's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=git5loxosec&theme=react&show_icons=true&hide_border=true&layout=compact&width=50%)
 
 
